@@ -77,7 +77,7 @@ Sample store description:
 
 	export const store = createStore(rootReducer);
 
-Sample routes description
+Sample routes description:
 
 
 	import React from 'react';
@@ -102,7 +102,7 @@ Sample routes description
 	export default Routes;
 	
 
-Sample template
+Sample template:
 
 
 	<html>
