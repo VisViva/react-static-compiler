@@ -2,7 +2,7 @@
 
 ## Description
 
-So you use webpack, and are in a desperate need of static react compiler?
+So you use webpack, and are in a desperate need of a static react compiler?
 
 You want to compile a react single page application into a set of static html files?
 
